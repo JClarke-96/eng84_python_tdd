@@ -32,3 +32,4 @@
 - Write tests before code
 - Write code for failed tests to pass them
 - `python -m pytest -v` for further info
+- `python -m unittest discover -v` to add test results
