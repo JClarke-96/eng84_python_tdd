@@ -31,3 +31,4 @@
 - Run tests with `python -m pytest`
 - Write tests before code
 - Write code for failed tests to pass them
+- `python -m pytest -v` for further info
