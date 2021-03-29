@@ -29,3 +29,5 @@
 |assertNotIsInstance(a, b)|    not isinstance(a, b)|3.2|
 
 - Run tests with `python -m pytest`
+- Write tests before code
+- Write code for failed tests to pass them
